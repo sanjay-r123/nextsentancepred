@@ -110,5 +110,5 @@ This project is submitted as part of an academic assignment and is free to use f
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
+**Sanjay**  
 [GitHub](https://github.com/your-username) | [Email](mailto:your@email.com)
