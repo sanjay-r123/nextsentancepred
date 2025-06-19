@@ -60,7 +60,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the live app]([https://your-app.onrender.com](https://nextsentancepred.onrender.com))
+👉 [Click here to try the live app](https://nextsentancepred.onrender.com)
 
 ---
 
